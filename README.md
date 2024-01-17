@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning, Frontend Development**
 
-- 👨‍💻 All of my projects are available at [https://Harshvardhan-2164.github.io/My-Portfolio-Website/](https://Harshvardhan2164.github.io/My-Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [https://Harshvardhan2164.github.io/My-Portfolio-Website/](https://Harshvardhan2164.github.io/My-Portfolio-Website/)
 
 - 📫 How to reach me **hvsharma2164@gmail.com**
 
